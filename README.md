@@ -1,5 +1,8 @@
 # NHS-prescribing-trends
 
+### Note:
+You can see the detailed data loading/cleaning and data visualization code by directly clicking on nhs_prescribing_trends.ipynb file.
+
 ### <u>Research Question</u>
 This personal project aimed to answer the following question:
 
